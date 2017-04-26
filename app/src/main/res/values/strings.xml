@@ -4,7 +4,6 @@
   <string name="false_button">False</string>
   <string name="correct_toast">Correct</string>
   <string name="incorrect_toast">Incorrect</string>
-  <string name="next_button">Next</string>
 
   <string name="question_australia">Canberra is the capital of Australia.</string>
   <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean.</string>
@@ -12,4 +11,7 @@
   <string name="question_africa">The source of the Nile River is in Egypt.</string>
   <string name="question_americas">The Amazon River is the longest river in the Americans.</string>
   <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freshwater lake.</string>
+
+  <string name="prev_button_description">Button that navigates back to the previous question.</string>
+  <string name="next_button_description">Button that navigates to the next question.</string>
 </resources>
